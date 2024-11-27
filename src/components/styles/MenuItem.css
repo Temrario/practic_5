@@ -1,0 +1,17 @@
+.menu-item {
+    margin: 10px 0;
+  }
+  
+  .menu-item a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  .menu-item a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu-item span {
+    color: gray;
+  }
+  
